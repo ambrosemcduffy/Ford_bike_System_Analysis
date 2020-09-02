@@ -16,7 +16,15 @@ Another problem I ran into was the were outliers in the duration data I had to c
 Also, I found that most users prefered the docked ride type other than electric ride type, and this did not very at all.
 Nevertheless, when it came to which street is the most popular for users I would say 10th street.
 
+For casual users it was 10th and Empire st, and for users with memberships it was 10th st at University. 
+
 
 ## Key Insights for Presentation
 
-> Does location influence ride duration?, and does does location influence if casual customers want to use the product or not. 
+> Does location influence ride duration?, and does does location influence if casual customers want to use the product or not?
+I think so it seems when it comes to ride duration weekends specifically Saturdays get the most hits for rides.
+
+When it comes to users sticking with the casual users is key, because they may not want to be locked down by a membership but they are frequent users. 
+In fact some casual users ride more than 40 minutes this is an outlier not really seen in membership groups.
+
+I also find out the majority of ride duration are relatively short around 5-10 minutes. 
